@@ -1,0 +1,77 @@
+/*
+    Color scheme for this website:
+lavender: #e2e9f6
+Bright Red: #DE354C
+
+Deep Red: #932432
+
+Pure Purple: #3C1874
+
+Purple Tinged Grey: #283747
+
+Cloud: #F3F3F3*/
+
+body {
+	margin: 5px;
+	padding: 10px;
+	background: #e2e9f6;
+	color: #932432;
+	font-family: American Typewriter, serif;
+	font-size: 20px;
+	font-style: normal;
+	text-align: left;
+	
+	}
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+  display: block, inline;
+  
+  width: 20%;
+}
+
+
+/* h1 + p {
+  font-size: 300%;
+	padding: 0px;
+	border: 5px;
+} */
+p {
+	margin: 5px;
+	margin-right: 650px;
+	padding: 0px;
+		
+}
+li em {
+  color: #3C1874;
+}
+a:link {
+    color: yellow;
+}
+
+a:visited {
+    color: rgb(70,13,207);
+}
+
+a:hover {
+    text-decoration: rgb(0,13,207);
+}
+
+h1 {
+	display: inline;
+	font-family: Apple Chancery, cursive;
+	font-size: 50px;
+	font-style: oblique;
+	font-weight: 900;
+	color: #3C1874;
+	line-height: 300%;
+	text-align: center;
+	padding: 15px;
+	}
+h2 {
+margin: 5px;
+	margin-right: 650px;
+
+}
